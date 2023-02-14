@@ -9,7 +9,7 @@
 <br><br>  
 
 ### [Wolf3D](https://github.com/oskarikinnunen/sovietpunk) (Raycasting renderer)
-<a href="https://github.com/oskarikinnunen/sovietpunk"><img src="https://user-images.githubusercontent.com/45420297/218818776-87b888a8-56d0-4d0e-ac9f-e657dcddb41a.png" width="200" height="200"></a>
+<a href="https://github.com/oskarikinnunen/sovietpunk"><img src="https://user-images.githubusercontent.com/45420297/218836544-50211169-01b8-49d4-9814-54210b4322d2.png" width="200" height="200"></a>
 
 <br>  
 
