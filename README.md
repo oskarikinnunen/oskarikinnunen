@@ -1,4 +1,4 @@
-### My Hive graphics branch projects:
+### Some of my Hive graphics branch projects:
 
 [Doom Nukem (Work in Progress)](https://github.com/oskarikinnunen/DoomNukem)  
 
